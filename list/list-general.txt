@@ -50,3 +50,13 @@ lesta.ru
 korabli.su
 tanksblitz.ru
 reg.ru
+login.p1.worldoftanks.eu
+login.p2.worldoftanks.eu
+login.p3.worldoftanks.eu
+login.p4.worldoftanks.eu
+login-p1.worldoftanks.com
+login-p2.worldoftanks.com
+login.worldoftanks-sea.com
+seasonvar.ru
+seasonvar.club
+stratege.ru
